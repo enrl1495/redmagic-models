@@ -83,7 +83,7 @@
   {
     "name": "Qwen 3.5 4B",
     "fileName": "Qwen3.5-4B-Q4_K_M.gguf",
-    "description": "El modelo más pesado recomendado para el Redmagic 11. Visión, herramientas y razonamiento de primer nivel. Tofd2a la memoria.",
+    "description": "El modelo más pesado recomendado para el Redmagic 11. Visión, herramientas y razonamiento de primer nivel. Toda la memoria.",
     "category": "Vision",
     "paramSize": "4B",
     "downloadUrl": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/resolve/main/Qwen3.5-4B-Q4_K_M.gguf",
